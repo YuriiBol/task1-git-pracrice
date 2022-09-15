@@ -45,11 +45,11 @@
   
 } 
 .button1:hover {
-  color: brown;
-  background-color: chartreuse;
+  color: blue;
+  background-color: brown;
 }
   .button1:active {
-    color: black;
+    color: green;
     margin-bottom: 3px;
   }
 
